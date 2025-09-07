@@ -1,4 +1,4 @@
-# Email_Automation Templates
+# Email_Automation Workflows
 
 - **auto_reply_to_faqs.json** – Uses Anthropic Claude, Cohere Embeddings, Pinecone
 - **parse_invoice_emails.json** – Uses Anthropic Claude, OpenAI Embeddings

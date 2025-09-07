@@ -1,4 +1,4 @@
-# Finance_Accounting Templates
+# Finance_Accounting Workflows
 
 - **stripe_to_quickbooks.json** – Uses OpenAI Chat, OpenAI Embeddings, Supabase Vector
 - **ocr_receipts_to_notion.json** – Uses Anthropic Claude, OpenAI Embeddings, Supabase Vector

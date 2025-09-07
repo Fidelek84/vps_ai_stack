@@ -1,4 +1,4 @@
-# Automotive Templates
+# Automotive Workflows
 - **vin_decoder.json** – redis/huggingface/huggingface
 - **ev_battery_degradation_report.json** – redis/cohere/openai
 - **connected_car_alert.json** – redis/openai/openai

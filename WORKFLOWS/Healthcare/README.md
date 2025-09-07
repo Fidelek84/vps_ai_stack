@@ -1,3 +1,3 @@
-# Healthcare Templates
+# Healthcare Workflows
 
 - **appointment_whatsapp_notify.json** – Uses OpenAI Chat, OpenAI Embeddings, Supabase Vector

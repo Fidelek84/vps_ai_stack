@@ -1,4 +1,4 @@
-# Legal_Tech Templates
+# Legal_Tech Workflows
 - **contract_clause_extractor.json** – weaviate/cohere/openai
 - **case_law_summarizer.json** – supabase/cohere/openai
 - **nda_risk_detector.json** – redis/huggingface/openai

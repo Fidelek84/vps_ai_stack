@@ -1,4 +1,4 @@
-# Energy Templates
+# Energy Workflows
 - **solar_output_forecaster.json** – supabase/huggingface/anthropic
 - **grid_load_alert.json** – supabase/openai/anthropic
 - **fuel_price_monitor.json** – weaviate/huggingface/anthropic
@@ -8,4 +8,4 @@
 - **battery_health_monitor.json** – redis/huggingface/huggingface
 - **ev_charging_station_locator.json** – supabase/huggingface/anthropic
 - **power_outage_sms.json** – weaviate/openai/openai
-- **renewable_incentive_tracker.json** – pinecone/huggingface/anthropic
+- **renewable_incentive_tracker.json** – pinecone/huggingface/anthropi

@@ -1,4 +1,4 @@
-# AI_ML Templates
+# AI_ML Workflows
 
 - **summarize_customer_emails.json** – Uses Anthropic Claude, Cohere Embeddings
 - **daily_content_ideas.json** – Uses Cohere Embeddings, OpenAI Chat, Supabase Vector

@@ -1,4 +1,4 @@
-# Manufacturing Templates
+# Manufacturing Workflows
 - **machine_downtime_predictor.json** – weaviate/openai/anthropic
 - **inventory_restock_forecast.json** – supabase/cohere/anthropic
 - **quality_defect_classifier.json** – redis/openai/anthropic

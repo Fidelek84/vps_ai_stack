@@ -1,4 +1,4 @@
-# IoT Templates
+# IoT Workflows
 - **sensor_fault_detector.json** – supabase/openai/huggingface
 - **smart_home_energy_saver.json** – supabase/cohere/huggingface
 - **iot_device_firmware_update_planner.json** – pinecone/huggingface/openai
